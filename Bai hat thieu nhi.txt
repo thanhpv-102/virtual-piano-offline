@@ -1,0 +1,37 @@
+﻿Cả nhà thương nhau
+T T T E T Y E
+E Y Y T Y I U
+T Y I Y I O O
+U Y O Y U T T
+
+Cháu lên ba (thấp)
+U H B H B H U
+H H U B U H U B
+H U B B B B H U
+H B B U H B H U B
+B U H H B B U H B
+
+Cháu lên ba (cao)
+P O I O I O P
+O O P I P O P I
+O P I I I I O P
+O I I P O I O P I
+I P O O I I P O I
+I P O O I I P O I
+
+Kìa con bướm vàng
+Q W E Q Q W E Q
+E R T E R T
+T Y T R E Q T Y T R E Q
+
+Một con vịt
+W T W W T T Y U
+U T W U U U W W W
+W W U U W W W U
+U Y W U U U Y T
+
+Rửa mặt như meo
+T T T W E T W
+U U U W E T Y
+Y T Y T T U U
+Y U W W U Y T
